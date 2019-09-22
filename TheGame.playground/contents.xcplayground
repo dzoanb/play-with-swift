@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Chapter 1. Properties and Variables'/>
+        <page name='Chapter 2. Building Data Types'/>
+        <page name='Chapter 3. Functions and Loops'/>
+        <page name='Chapter 4. Closures and Control Flow'/>
+        <page name='Chapter 5. Optionals and Switches'/>
+        <page name='Chapter 6. Playtime!'/>
+        <page name='Where to go from here?'/>
+    </pages>
+</playground>
